@@ -1,6 +1,6 @@
-name: khan-md
+name: crazy Hacker
 services:
-  - name: khan-md-service
+  - name: crazy-Hacker-service
     type: web
     ports:
       - 5000
