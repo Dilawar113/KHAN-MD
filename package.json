@@ -8,9 +8,9 @@
     "node": ">=20.0.0"
   },
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name JAWAD-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name crazy Hacker",
     "stop": "pm2 stop JAWAD-MD",
-    "restart": "pm2 restart JAWAD-MD"
+    "restart": "pm2 restart crazy Hacker"
   },
   "keywords": [
     "crazy Hacker",
