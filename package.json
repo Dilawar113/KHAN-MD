@@ -1,7 +1,7 @@
 {
-  "name": "JAWAD-MD",
+  "name": "crazy Hacker",
   "version": "7.0.0",
-  "description": "JAWAD-MD, a Multi Device Whatsapp Bot to Enhance Whatsapp Communication Experience",
+  "description": "crazy Hacker, a Multi Device Whatsapp Bot to Enhance Whatsapp Communication Experience",
   "main": "./index.js",
   "type": "commonjs",
   "--engines": {
@@ -13,13 +13,13 @@
     "restart": "pm2 restart JAWAD-MD"
   },
   "keywords": [
-    "JAWAD-MD",
-    "JAWAD-MD",
-    "JAWAD-XMD",
+    "crazy Hacker",
+    "crazy Hacker",
+    "crazy Hacker",
     "whatsapp-bot",
-    "jawad-api"
+    "crazy-api"
   ],
-  "author": "JawadTechXD",
+  "author": "crazy HackerTechXD",
   "license": "MIT",
   "dependencies": {
     "@vitalets/google-translate-api": "^9.2.0",
@@ -62,10 +62,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JawadTechXD/JAWAD-MD.git"
+    "url": "git+https://github.com/Dilawar113?tab=repositories
   },
   "bugs": {
-    "url": "https://github.com/JawadTechXD/JAWAD-MD/issues"
+    "url": "https://github.com/Dilawar113 issues"
   },
-  "homepage": "https://github.com/JawadTechXD/JAWAD-MD#readme"
+  "homepage": "https://github.com/Dilawar113 #readme"
 }
